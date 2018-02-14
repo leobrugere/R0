@@ -1,0 +1,5 @@
+La différence entre R1 et R2:
+ - R1 peut être défini comme une version du travail
+ - R2 peut être défini comme une version du travail antérieur ou plus avancé que R1
+
+Alors que R0 est un dossier qui est ressemblant cependant c'est une version que l'on a déjà "envoyé"
