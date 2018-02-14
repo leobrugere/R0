@@ -1,0 +1,3 @@
+Pull: c'est le principe de récupérer l'intégralité d'un dossier à travers une commande sur un terminal
+
+Push: c'est le principe d'envoyer vers le repository git l'intégralité d'un dossier.
